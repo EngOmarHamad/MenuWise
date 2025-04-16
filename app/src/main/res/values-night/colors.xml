@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="appbar_icon_color">#FFFFFF</color>
+    <color name="colorPrimary">#DE412E</color>
+    <color name="colorPrimaryVariant">#FF6F61</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+</resources>

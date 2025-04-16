@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "797775325381",
+    "project_id": "menuwise-5705e",
+    "storage_bucket": "menuwise-5705e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797775325381:android:3fba56d74ff0bf93e1e8ac",
+        "android_client_info": {
+          "package_name": "com.example.menuwise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgn-zICoelwAfepFMWBGA18J-zHDtyFKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

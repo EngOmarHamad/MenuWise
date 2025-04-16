@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#D50000</color>
+    <color name="appbar_icon_color">#000000</color> <!-- أسود -->
+    <color name="colorPrimary">#DE412E</color>
+    <color name="colorPrimaryVariant">#B23224</color> <!-- لون أغمق منه -->
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="gold">#C27800</color>
+</resources>

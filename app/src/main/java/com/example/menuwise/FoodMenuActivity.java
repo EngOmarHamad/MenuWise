@@ -62,7 +62,7 @@ public class FoodMenuActivity extends AppCompatActivity {
         bottomNavigationView.setOnItemSelectedListener(item -> {
             int id = item.getItemId();
             if (id == R.id.item_home) {
-                loadFragment(new FavoritesFragment());
+                loadFragment(new MealTabsFragment());
                 return true;
             } else if (id == R.id.item_favorite) {
                 loadFragment(new FavoritesFragment());
